@@ -37,15 +37,13 @@ article img{
     width: 130px;
     height: 130px;
     margin-bottom: 5px;
+    padding: 10px;
+    border: solid black 3px;
 }
 .red img{
     background: #FC6471;
-    border: solid black 3px;
-    padding: 10px;
 }
 
 .blue img{
     background: #77B6EA;
-    border: solid black 3px;
-    padding: 10px;
 }
